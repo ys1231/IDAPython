@@ -1,0 +1,2 @@
+# IDAPython
+ida python script
